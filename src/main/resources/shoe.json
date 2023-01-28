@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Sneaker 1",
+    "brand": "Brand A",
+    "price": "100.00",
+    "color": "black",
+    "size": "10",
+    "category": "casual",
+    "gender": "man"
+  },
+  {
+    "name": "Sneaker 2",
+    "brand": "Brand A",
+    "price": "120.00",
+    "color": "white",
+    "size": "11",
+    "category": "casual",
+    "gender": "man"
+  },
+  {
+    "name": "Sneaker 3",
+    "brand": "Brand B",
+    "price": "90.00",
+    "color": "black",
+    "size": "9",
+    "category": "casual",
+    "gender": "man"
+  },
+  {
+    "name": "Sneaker 4",
+    "brand": "Brand B",
+    "price": "110.00",
+    "color": "white",
+    "size": "10",
+    "category": "casual",
+    "gender": "man"
+  },
+  {
+    "name": "Sneaker 5",
+    "brand": "Brand C",
+    "price": "80.00",
+    "color": "black",
+    "size": "8",
+    "category": "casual",
+    "gender": "man"
+  },
+  {
+    "name": "Sneaker 6",
+    "brand": "Brand C",
+    "price": "100.00",
+    "color": "white",
+    "size": "9",
+    "category": "casual",
+    "gender": "man"
+  },
+  {
+    "name": "Sneaker 7",
+    "brand": "Brand D",
+    "price": "90.00",
+    "color": "black",
+    "size": "7",
+    "category": "casual",
+    "gender": "man"
+  },
+  {
+    "name": "Sneaker 8",
+    "brand": "Brand D",
+    "price": "110.00",
+    "color": "white",
+    "size": "8",
+    "category": "casual",
+    "gender": "man"
+  },
+  {
+    "name": "Heel 4",
+    "brand": "Brand B",
+    "price": "100.00",
+    "color": "black",
+    "size": "7",
+    "category": "dress",
+    "gender": "woman"
+  },
+  {
+    "name": "Heel 5",
+    "brand": "Brand C",
+    "price": "90.00",
+    "color": "white",
+    "size": "6",
+    "category": "dress",
+    "gender": "woman"
+  },
+  {
+    "name": "Heel 6",
+    "brand": "Brand C",
+    "price": "80.00",
+    "color": "black",
+    "size": "5",
+    "category": "dress",
+    "gender": "woman"
+  },
+  {
+    "name": "Heel 7",
+    "brand": "Brand D",
+    "price": "70.00",
+    "color": "white",
+    "size": "4",
+    "category": "dress",
+    "gender": "woman"
+  },
+  {
+    "name": "Heel 8",
+    "brand": "Brand D",
+    "price": "60.00",
+    "color": "black",
+    "size": "3",
+    "category": "dress",
+    "gender": "woman"
+  },
+  {
+    "name": "Flat 1",
+    "brand": "Brand A",
+    "price": "50.00",
+    "color": "white",
+    "size": "2",
+    "category": "casual",
+    "gender": "woman"
+  },
+  {
+    "name": "Flat 2",
+    "brand": "Brand A",
+    "price": "40.00",
+    "color": "black",
+    "size": "1",
+    "category": "casual",
+    "gender": "woman"
+  },
+  {
+    "name": "Flat 3",
+    "brand": "Brand B",
+    "price": "30.00",
+    "color": "white",
+    "size": "0",
+    "category": "casual",
+    "gender": "woman"
+  },
+  {
+    "name": "Sneaker 1",
+    "brand": "Brand E",
+    "price": "20.00",
+    "color": "red",
+    "size": "2",
+    "category": "sport",
+    "gender": "boy"
+  },
+  {
+    "name": "Sneaker 2",
+    "brand": "Brand F",
+    "price": "25.00",
+    "color": "blue",
+    "size": "3",
+    "category": "sport",
+    "gender": "boy"
+  },
+  {
+    "name": "Sneaker 3",
+    "brand": "Brand G",
+    "price": "30.00",
+    "color": "green",
+    "size": "4",
+    "category": "sport",
+    "gender": "boy"
+  },
+  {
+    "name": "Sneaker 4",
+    "brand": "Brand H",
+    "price": "35.00",
+    "color": "yellow",
+    "size": "5",
+    "category": "sport",
+    "gender": "boy"
+  },
+  {
+    "name": "Mary Jane 1",
+    "brand": "Brand E",
+    "price": "20.00",
+    "color": "pink",
+    "size": "2",
+    "category": "dress",
+    "gender": "girl"
+  },
+  {
+    "name": "Mary Jane 2",
+    "brand": "Brand F",
+    "price": "25.00",
+    "color": "purple",
+    "size": "3",
+    "category": "dress",
+    "gender": "girl"
+  },
+  {
+    "name": "Mary Jane 3",
+    "brand": "Brand G",
+    "price": "30.00",
+    "color": "light blue",
+    "size": "4",
+    "category": "dress",
+    "gender": "girl"
+  },
+  {
+    "name": "Mary Jane 4",
+    "brand": "Brand H",
+    "price": "35.00",
+    "color": "white",
+    "size": "5",
+    "category": "dress",
+    "gender": "girl"
+  }
+]
+
