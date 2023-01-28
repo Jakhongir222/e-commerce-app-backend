@@ -34,4 +34,19 @@ public class Service {
     }
 
 
+    public Object getSpecificShoe(Long id) {
+        return repo.getSpecificShoe(id);
+    }
+
+    public Object createNewShoe(Shoe shoe) {
+        return repo.createNewShoe(shoe);
+    }
+
+    public void deleteShoe(Long id) {
+        repo.deleteShoe(id);
+    }
+
+    public void updateShoe(Shoe updatedShoe) {
+        repo.updateShoe(updatedShoe);
+    }
 }
