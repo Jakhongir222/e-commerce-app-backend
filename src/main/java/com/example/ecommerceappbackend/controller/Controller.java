@@ -12,7 +12,7 @@ import java.util.Optional;
 
 @CrossOrigin
 @RestController
-@RequestMapping("/shoe")
+@RequestMapping("/shoes")
 public class Controller {
 
     @Autowired
