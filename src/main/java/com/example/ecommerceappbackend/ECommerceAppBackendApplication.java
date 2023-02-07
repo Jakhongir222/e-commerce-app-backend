@@ -10,7 +10,7 @@ import org.springframework.core.io.ClassPathResource;
 import java.io.File;
 
 @SpringBootApplication
-public class ECommerceAppBackendApplication implements CommandLineRunner {
+public class ECommerceAppBackendApplication  {
 
     @Autowired
     private Service service;
@@ -19,11 +19,6 @@ public class ECommerceAppBackendApplication implements CommandLineRunner {
         SpringApplication.run(ECommerceAppBackendApplication.class, args);
     }
 
-    @Override
-    public void run(String... args) throws Exception {
-        ClassPathResource resource = new ClassPathResource("shoe.json");
-        File file = resource.getFile();
-        service.loadData(file.getAbsolutePath());
-    }
+
 
 }
