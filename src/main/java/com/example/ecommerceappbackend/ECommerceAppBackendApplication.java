@@ -10,7 +10,7 @@ import org.springframework.core.io.ClassPathResource;
 import java.io.File;
 
 @SpringBootApplication
-public class ECommerceAppBackendApplication  {
+public class ECommerceAppBackendApplication {
 
     @Autowired
     private Service service;
@@ -18,7 +18,5 @@ public class ECommerceAppBackendApplication  {
     public static void main(String[] args) {
         SpringApplication.run(ECommerceAppBackendApplication.class, args);
     }
-
-
 
 }
