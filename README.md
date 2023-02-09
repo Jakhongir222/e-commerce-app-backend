@@ -1,6 +1,6 @@
 # E-Commerce Backend
 This repository contains the backend of the E-Commerce App, a full stack application that allows users to browse and purchase shoes for Men's, Women's, and Children's categories.
-Here is a link for the frontend of the [app](https://github.com/Jakhongir222/e-commerce-app-frontend.git)
+### Here is a link for the frontend of the [app](https://github.com/Jakhongir222/e-commerce-app-frontend.git)
 
 ## Technologies
 - Spring Boot
